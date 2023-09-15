@@ -1,2 +1,0 @@
-# spinnaker
-Spinnaker vulnerabilities test
